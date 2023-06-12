@@ -1,0 +1,55 @@
+/* (1) Tag Selector*/
+h1{
+    text-align : center; 
+    font-weight :bold;
+    font-family:Mitr;
+}
+h2{
+    text-align : center; 
+    font-weight :normal;
+    font-family:Mitr;
+}
+h3{
+    text-align : center; 
+    font-weight :normal;
+    font-family :Mitr;
+}
+table{
+    width: 100%;
+    text-align : center" cellspacing = "15"
+}
+th{
+    width: 33.33%;
+    text-align : center;
+    vertical-align: top;
+}
+body{
+    background-image:url(https://i.pinimg.com/564x/08/13/8c/08138c1c2cb79add6b82afa2f40f8f5f.jpg);
+}
+/* (2) Class Selector*/
+.p-boutme{
+    font-weight: normal;
+    text-align: justify;
+    text-align : center;
+}
+.p-data{
+    font-weight: normal;
+    text-align: left;
+}
+.d-menu{
+    background-image:url(https://i.pinimg.com/564x/66/61/47/666147296732b9a5891908fba0ecac62.jpg);
+}
+.t-cmenu:hover{
+    border:5px inset #82AAE3;padding: 10;
+    background-image: url(https://i.pinimg.com/564x/43/dd/06/43dd068923838600bd9609661ad05354.jpg);
+}
+.t-am{
+    background-color: #2a3749;
+    color: #ffffff;
+    border :5px inset rgb(45, 45, 45);
+}
+/* (3) Id Selector*/
+#i-edit{
+    text-align: center;
+    font-weight: normal;
+}

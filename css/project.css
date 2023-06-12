@@ -1,0 +1,30 @@
+
+/*1.tag selector*/
+h1{
+    text-align: center;
+    font-family: Mitr;
+    font-weight: bold;
+}
+p{
+    text-align: center;
+}
+table{
+    width: 100%;
+    text-align : center;
+}
+body{
+    background-image:url(https://i.pinimg.com/564x/08/13/8c/08138c1c2cb79add6b82afa2f40f8f5f.jpg);
+}
+/*2.class selecter*/
+.d-menu{
+    background-image:url(https://i.pinimg.com/564x/66/61/47/666147296732b9a5891908fba0ecac62.jpg);
+}
+.t-menu{
+    width: 100%;
+    text-align : center;
+}
+.t-cmenu:hover{
+    border:5px inset #82AAE3;padding: 10;
+    background-image: url(https://i.pinimg.com/564x/43/dd/06/43dd068923838600bd9609661ad05354.jpg);
+}
+/*3.id selector*/
